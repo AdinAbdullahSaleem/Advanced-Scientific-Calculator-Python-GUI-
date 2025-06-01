@@ -1,0 +1,6 @@
+# requirements.txt
+# This project requires Python 3.x.
+# External dependency:
+#   - customtkinter (for modern, rounded widgets and dark theme)
+
+customtkinter
